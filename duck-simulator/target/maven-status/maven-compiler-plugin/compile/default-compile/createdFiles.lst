@@ -1,0 +1,15 @@
+pl\zalewski\duck\model\Duck.class
+pl\zalewski\duck\interfaces\fly\CantFlying.class
+pl\zalewski\duck\interfaces\fly\FlyWithRocketPropulsion.class
+pl\zalewski\items\model\Whistle.class
+pl\zalewski\duck\interfaces\voice\BeepVoice.class
+pl\zalewski\duck\model\FlyingDuck.class
+pl\zalewski\duck\model\RubberDuck.class
+pl\zalewski\items\model\DuckWhistle.class
+pl\zalewski\duck\interfaces\fly\FlyingWithWings.class
+pl\zalewski\duck\interfaces\voice\NoVoice.class
+pl\zalewski\app\Application.class
+pl\zalewski\duck\interfaces\fly\Flyable.class
+pl\zalewski\duck\interfaces\voice\QuackVoice.class
+pl\zalewski\duck\interfaces\voice\Voiceable.class
+pl\zalewski\duck\model\DuckModel.class

@@ -1,0 +1,15 @@
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\fly\Flyable.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\app\Application.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\items\model\DuckWhistle.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\fly\CantFlying.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\fly\FlyingWithWings.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\voice\BeepVoice.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\model\DuckModel.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\items\model\Whistle.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\voice\Voiceable.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\voice\QuackVoice.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\model\FlyingDuck.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\model\RubberDuck.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\fly\FlyWithRocketPropulsion.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\interfaces\voice\NoVoice.java
+D:\java\duck-simulator\src\main\java\pl\zalewski\duck\model\Duck.java

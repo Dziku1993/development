@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1aecfc29-7b90-4095-b6ee-2017a7e3d868" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/src/main/java/pl/zalewski/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-exceeding/target/classes/pl/zalewski/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/src/main/java/pl/zalewski/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/src/test/java/pl/zalewski/calculator/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/target/classes/pl/zalewski/calculator/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator-tests/target/test-classes/pl/zalewski/calculator/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/src/main/java/pl/zalewski/dayCounter/DayCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/src/test/java/pl/zalewski/dayCounter/DayCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/src/test/resources/pl/zalewski/dayCounter/test30.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/src/test/resources/pl/zalewski/dayCounter/test31.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/target/classes/pl/zalewski/dayCounter/DayCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/target/test-classes/pl/zalewski/dayCounter/DayCountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/target/test-classes/pl/zalewski/dayCounter/test30.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-counter/target/test-classes/pl/zalewski/dayCounter/test31.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/ConsoleOutputWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/EntryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/LinguApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/LinguController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/TextFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/java/pl/zalewski/dependencyinjection/UpperCaseTextFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependency-injection/src/test/java/pl/zalewski/dependencyinjection/DependencyInjectionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/src/main/java/org/example/junit_assertion/JUnit5Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/src/test/java/org/example/junit_assertion/JUnit5AssertionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/target/classes/org/example/junit_assertion/JUnit5Assertions$Code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/target/classes/org/example/junit_assertion/JUnit5Assertions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/target/test-classes/org/example/junit_assertion/JUnit5AssertionsTest$GetCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/target/test-classes/org/example/junit_assertion/JUnit5AssertionsTest$IsPrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jUnit-assertion/target/test-classes/org/example/junit_assertion/JUnit5AssertionsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurs-testowanie-jednostkowe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/MessagePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/MessagePrinterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/exceptions/InvalidDecoratorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/messageproducer/ConsoleMessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/messageproducer/FileMessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/java/pl/zalewski/dependency_injection/messageproducer/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/src/test/java/pl/zalewski/dependency_injection/DependencyInjectionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/src/main/java/pl/zalewski/property_demo/MessagePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/src/main/java/pl/zalewski/property_demo/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/src/main/java/pl/zalewski/property_demo/PropertyDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../property_demo/src/test/java/pl/zalewski/property_demo/PropertyDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/zalewski/duck/model/DuckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/zalewski/duck/model/DuckTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2MH1vsmSntkG3c8BeTWqAJruDrR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.zalewski.duck.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DuckTest">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.zalewski.app.Application" />
+      <module name="duck-simulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.zalewski.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="duck-simulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.zalewski.duck.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.zalewski.duck.model" />
+      <option name="MAIN_CLASS_NAME" value="pl.zalewski.duck.model.DuckTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckTest.createFlyingDuck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="duck-simulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.zalewski.duck.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.zalewski.duck.model" />
+      <option name="MAIN_CLASS_NAME" value="pl.zalewski.duck.model.DuckTest" />
+      <option name="METHOD_NAME" value="createFlyingDuck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DuckTest" />
+        <item itemvalue="JUnit.DuckTest.createFlyingDuck" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aecfc29-7b90-4095-b6ee-2017a7e3d868" name="Changes" comment="" />
+      <created>1677409927723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677409927723</updated>
+      <workItem from="1677409928910" duration="14367000" />
+      <workItem from="1677447079528" duration="443000" />
+      <workItem from="1677447614205" duration="347000" />
+      <workItem from="1677497864690" duration="2779000" />
+      <workItem from="1677522083572" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
