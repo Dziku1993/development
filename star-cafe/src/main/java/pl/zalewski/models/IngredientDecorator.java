@@ -1,4 +1,4 @@
-package pl.zalewski;
+package pl.zalewski.models;
 
 public abstract class IngredientDecorator extends Drink {
     @Override

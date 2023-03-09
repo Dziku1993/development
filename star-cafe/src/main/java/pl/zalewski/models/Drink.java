@@ -1,4 +1,4 @@
-package pl.zalewski;
+package pl.zalewski.models;
 
 abstract public class Drink {
     protected String description;
@@ -7,5 +7,5 @@ abstract public class Drink {
         return description;
     }
 
-    abstract double price();
+    public abstract double price();
 }

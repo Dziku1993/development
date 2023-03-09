@@ -1,4 +1,6 @@
-package pl.zalewski;
+package pl.zalewski.drinks;
+
+import pl.zalewski.models.Drink;
 
 public class Espresso extends Drink {
 
