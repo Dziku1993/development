@@ -9,7 +9,7 @@ public class Decaffeinated extends Drink {
     }
 
     @Override
-    public double price() {
+    public double getPrice() {
         return 2.19d;
     }
 }

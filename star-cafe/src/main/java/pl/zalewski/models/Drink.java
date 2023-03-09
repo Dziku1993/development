@@ -7,5 +7,5 @@ abstract public class Drink {
         return description;
     }
 
-    public abstract double price();
+    public abstract double getPrice();
 }

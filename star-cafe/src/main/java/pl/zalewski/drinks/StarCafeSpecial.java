@@ -9,7 +9,7 @@ public class StarCafeSpecial extends Drink {
     }
 
     @Override
-    public double price() {
+    public double getPrice() {
         return 0.89d;
     }
 }

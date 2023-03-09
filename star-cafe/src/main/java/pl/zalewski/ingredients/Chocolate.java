@@ -17,7 +17,7 @@ public class Chocolate extends IngredientDecorator {
     }
 
     @Override
-    public double price() {
-        return drink.price() + 0.20d;
+    public double getPrice() {
+        return drink.getPrice() + 0.20d;
     }
 }

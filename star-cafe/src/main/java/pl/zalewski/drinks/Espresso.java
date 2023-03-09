@@ -9,7 +9,7 @@ public class Espresso extends Drink {
     }
 
     @Override
-    public double price() {
+    public double getPrice() {
         return 1.99;
     }
 }
